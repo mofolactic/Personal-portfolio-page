@@ -1,2 +1,2 @@
 # Personal-portfolio-page
-A webiste for making a personal portfolio page.
+A webiste used for making a personal portfolio page.
